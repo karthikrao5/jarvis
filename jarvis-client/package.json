@@ -1,0 +1,21 @@
+{
+  "name": "jarvis-client",
+  "version": "1.0.0",
+  "description": "Nodejs server listening for http POST requests",
+  "main": "index.js",
+  "engines": {
+	"node": "5.7.1"
+  },
+  "dependencies": {
+	"express": "4.14.0",
+	"express-fileupload": "^0.0.5",
+	"express-handlebars": "^3.0.0",
+	"socket.io": "1.7.2"
+  },
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js"
+  },
+  "author": "Karthik Rao",
+  "license": "ISC"
+}

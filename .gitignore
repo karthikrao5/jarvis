@@ -1,0 +1,9 @@
+include
+bin
+lib
+share
+google-cloud-sdk
+jarvis-client/node_modules
+jarvis-client/npm-debug.log
+pip-selfcheck.json
+python-docs-samples
